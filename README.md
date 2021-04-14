@@ -22,7 +22,7 @@ Web Portfolio to showcase projects and skills in better manner.
 
 #### To contribute to the project:
 
-1. Choose any open issue. 
+1. Choose any open issue from [here](https://github.com/punithkumar-bs/portfolio/issues). 
 2. Comment on the issue: `Can I work on this?` and get assigned.
 3. Make changes to your fork and send a PR.
 
