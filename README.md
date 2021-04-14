@@ -1,4 +1,3 @@
-# portfolio
 # Portfolio Website.
 Web Portfolio to showcase projects and skills in better manner. 
 
@@ -6,6 +5,7 @@ Web Portfolio to showcase projects and skills in better manner.
 
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/punithkumarbs)
 
+![Image](https://github.com/punithkumar-bs/portfolio/blob/main/images/portfolio.gif)
 
 #### To use the template on your github:
 
