@@ -1203,7 +1203,13 @@ padding-top: 2px;}
 }
 
 .zoom:hover {
-  transform: translateY(-15px); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  /*transform: translateY(-55px); !* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) *!*/
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  transform: scale(1.1);
+  transition: all 0.3s;
 }
 
 #colorlib-counter {
